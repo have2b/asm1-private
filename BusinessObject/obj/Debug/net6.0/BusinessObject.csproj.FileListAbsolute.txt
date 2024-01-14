@@ -1,0 +1,14 @@
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
