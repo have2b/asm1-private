@@ -1,0 +1,15 @@
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\Work\Learn\FPT\PRN231\Assignment\Assignment01\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

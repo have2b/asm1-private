@@ -8,7 +8,7 @@ public class Category
     [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; }
 
-    [Required] [MaxLength(100)] public string Name { get; set; } = null!;
+    [Required] [StringLength(100)] public string Name { get; set; } = null!;
     
     public ICollection<Product> Products { get; set; }
 }

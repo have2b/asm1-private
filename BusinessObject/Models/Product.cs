@@ -10,7 +10,7 @@ public class Product
     public int Id { get; set; }
 
     [Required] public int CategoryId { get; set; }
-    [Required] [MaxLength(100)] public string Name { get; set; } = null!;
+    [Required] [StringLength(100)] public string Name { get; set; } = null!;
     [Required] [Precision(4, 2)] public decimal Weight { get; set; }
     [Required] [Precision(4, 2)] public decimal UnitPrice { get; set; }
     [Required] public int UnitInStock { get; set; }
